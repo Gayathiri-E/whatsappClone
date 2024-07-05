@@ -8,7 +8,7 @@
 .login_container{
     padding: 100px;
     text-align: center;
-    background-color: white;
+    background-color: rgb(232, 239, 232);
     border-radius: 10px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12);
 }
@@ -19,6 +19,11 @@
 }
 .login_container > button{
     margin-top: 50px;
+    padding:10px;
+    border: 3px;
+    border-radius: 8px;
+    border-style: double;
     text-transform: inherit !important;
     background-color: #0a8d4d !important;
+    color:white;
 }
